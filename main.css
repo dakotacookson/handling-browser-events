@@ -1,0 +1,8 @@
+.blue {color: blue;
+  }
+  .large {font-size: large;
+  }
+  .bordered { border: 3px dotted indigo;
+  }
+  .rounded {border-radius: 10px;
+  }
